@@ -1,7 +1,7 @@
 # Deno API代理
 # Deno API Proxy
 
-# [English Version](README_EN.MD)
+[不要本地部署DeepSeek了，免费光速版API 免费无限量使用DeepSeek最大的70B的蒸馏模型，并且输出速度飞快。这样就不用本地部署DeepSeek，多快好省，节约电费。 #AI #人工智能 #科技 #教程 #计算机 - 抖音](https://www.douyin.com/video/7465347298051001638)
 
 ### 作者：技术爬爬虾
 B站，YouTube，抖音，公众号 全网同名。转载请注明作者。
